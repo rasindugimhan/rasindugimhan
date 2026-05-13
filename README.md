@@ -29,12 +29,16 @@
 
 ### 🚀 Featured Projects
 
-#### 💼 MicroJobs
+### 💼 [MicroJobs](https://micro-jobs.vercel.app/)
+*(Click to visit the live website)*  
 A production-ready micro-job platform featuring role-based access control, built to connect freelancers with clients.
 - **Tech Stack:** Next.js, Prisma, TypeScript, SQLite/PostgreSQL
 - **Highlights:** Secure authentication, robust database management, modern and responsive UI.
 
-#### 🤖 The Cozmo Bot
+<br>
+
+### 🤖 [The Cozmo Bot](https://t.me/CozmoSupport_Official)
+*(Click to view on Telegram)*  
 A powerful Python-based Telegram bot designed to provide advanced features for group management and live streaming.
 - **Tech Stack:** Python, Telegram API
 - **Highlights:** Enhanced community management, streaming utilities, high performance.
