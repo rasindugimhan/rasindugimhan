@@ -43,6 +43,14 @@ A powerful Python-based Telegram bot designed to provide advanced features for g
 - **Tech Stack:** Python, Telegram API
 - **Highlights:** Enhanced community management, streaming utilities, high performance.
 
+<br>
+
+### 📝 [TaskNote](https://github.com/rasindugimhan/TaskNote)
+*(Desktop Application)*  
+A professional desktop task and note manager designed for efficiency and ease of use.
+- **Tech Stack:** Electron, Node.js, HTML/CSS/JS
+- **Highlights:** Granular custom reminders, persistent storage, modern dashboard interface, and professional Windows installer.
+
 ---
 
 ### 💼 Services & Freelancing
