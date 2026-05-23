@@ -29,7 +29,7 @@
 
 ### 🚀 Featured Projects
 
-### 📅 [Campus Calendar Hub](https://github.com/rasindugimhan/campus-calendar-hub)
+### 📅 [FEels Hub](https://github.com/rasindugimhan/campus-calendar-hub)
 *(Desktop Application)*  
 FEeLS Campus Calendar Companion & Task Synchronizer designed to manage university schedules efficiently.
 - **Tech Stack:** Electron, Node.js, HTML/CSS/JS
@@ -42,6 +42,14 @@ FEeLS Campus Calendar Companion & Task Synchronizer designed to manage universit
 A powerful and advanced Telegram bot designed to stream high-quality audio and video directly into group voice chats.
 - **Tech Stack:** Python, Pyrogram, PyTgCalls
 - **Highlights:** High-quality native Telegram media streaming, advanced queueing, YouTube playlist support.
+
+<br>
+
+### 📥 [Torrent Downloader](https://github.com/rasindugimhan/Torrent-Downloader)
+*(Utility Application)*  
+A high-performance torrent downloader designed for fast, seamless, and efficient file sharing.
+- **Tech Stack:** Python / Node.js (Please update with actual stack)
+- **Highlights:** Fast download speeds, user-friendly interface, efficient resource management.
 
 <br>
 
