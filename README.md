@@ -29,6 +29,22 @@
 
 ### 🚀 Featured Projects
 
+### 📅 [Campus Calendar Hub](https://github.com/rasindugimhan/campus-calendar-hub)
+*(Desktop Application)*  
+FEeLS Campus Calendar Companion & Task Synchronizer designed to manage university schedules efficiently.
+- **Tech Stack:** Electron, Node.js, HTML/CSS/JS
+- **Highlights:** Custom calendar parsing, seamless desktop experience.
+
+<br>
+
+### 🎵 [FEels-Hub (Ewings)](https://github.com/rasindugimhan/FEels-Hub)
+*(Telegram Media Bot)*  
+A powerful and advanced Telegram bot designed to stream high-quality audio and video directly into group voice chats.
+- **Tech Stack:** Python, Pyrogram, PyTgCalls
+- **Highlights:** High-quality native Telegram media streaming, advanced queueing, YouTube playlist support.
+
+<br>
+
 ### 💼 [MicroJobs](https://micro-jobs.vercel.app/)
 *(Click to visit the live website)*  
 A production-ready micro-job platform featuring role-based access control, built to connect freelancers with clients.
