@@ -50,7 +50,7 @@ A powerful and advanced Telegram bot designed to stream high-quality audio and v
 A high-performance torrent downloader designed for fast, seamless, and efficient file sharing.
 - **Tech Stack:** Node.js
 - **Highlights:** Fast download speeds, user-friendly interface, efficient resource management.
-  NOTE: DO NOT deploy on DigitalOcean or any other VPS!!!
+- NOTE: DO NOT deploy on DigitalOcean or any other VPS!!!
 
 <br>
 
