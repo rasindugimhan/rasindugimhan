@@ -32,7 +32,7 @@
 ### 🖱️ [Motion-Mouse](https://github.com/rasindugimhan/Motion-Mouse)
 *(Desktop Application)*  
 An innovative application that allows you to control your computer's mouse pointer and clicks using your webcam, leveraging AI for facial tracking and hand gesture recognition.
-- **Tech Stack:** Electron, Vite, MediaPipe, Python
+- **Tech Stack:** Electron, Vite, MediaPipe, Python, Node.js
 - **Highlights:** Real-time face tracking for mouse movement, gesture recognition for clicks and scrolling.
 
 <br>
