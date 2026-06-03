@@ -29,6 +29,14 @@
 
 ### 🚀 Featured Projects
 
+### 🖱️ [Motion-Mouse](https://github.com/rasindugimhan/Motion-Mouse)
+*(Desktop Application)*  
+An innovative application that allows you to control your computer's mouse pointer and clicks using your webcam, leveraging AI for facial tracking and hand gesture recognition.
+- **Tech Stack:** Electron, Vite, MediaPipe, Python
+- **Highlights:** Real-time face tracking for mouse movement, gesture recognition for clicks & scrolling, and live body measurements estimation.
+
+<br>
+
 ### 📅 [FEels Hub](https://github.com/rasindugimhan/campus-calendar-hub)
 *(Desktop Application)*  
 FEeLS Campus Calendar Companion & Task Synchronizer designed to manage university schedules efficiently.
@@ -69,11 +77,11 @@ A powerful Python-based Telegram bot designed to provide advanced features for g
 
 <br>
 
-### 📝 [TaskNote](https://github.com/rasindugimhan/TaskNote)
+### 📝 [TaskNote V2](https://github.com/rasindugimhan/TaskNote-V2)
 *(Desktop Application)*  
-A professional desktop task and note manager designed for efficiency and ease of use.
+A professional desktop task, note manager, and campus calendar companion designed for efficiency.
 - **Tech Stack:** Electron, Node.js, HTML/CSS/JS
-- **Highlights:** Granular custom reminders, persistent storage, modern dashboard interface, and professional Windows installer.
+- **Highlights:** FEeLS calendar integration, sticky widget, granular custom reminders, modern dashboard interface, and extensive theme support.
 
 ---
 
