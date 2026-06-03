@@ -37,6 +37,14 @@ An innovative application that allows you to control your computer's mouse point
 
 <br>
 
+### 📝 [TaskNote V2](https://github.com/rasindugimhan/TaskNote-V2)
+*(Desktop Application)*  
+Newer version of TaskNote and FEels Hub combination.
+- **Tech Stack:** Electron, Node.js, HTML/CSS/JS
+- **Highlights:** FEeLS Calendar Sync, Granular custom reminders, persistent storage, modern dashboard interface, and Windows installer.
+
+<br>
+
 ### 📅 [FEels Hub](https://github.com/rasindugimhan/FEels-Hub)
 *(Desktop Application)*  
 FEeLS Campus Calendar Companion & Task Synchronizer designed to manage university schedules efficiently.
